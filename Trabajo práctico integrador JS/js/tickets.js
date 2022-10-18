@@ -1,4 +1,6 @@
 function enviar() {
+    event.preventDefault();
+    
 
     const precioOriginal = 200;
     let precioFinal;
