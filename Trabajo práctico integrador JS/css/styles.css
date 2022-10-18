@@ -1,0 +1,75 @@
+#aboutYou {
+    height: 90px;
+    font-size: 16px;
+}
+
+.darker-img {
+    background-color: black;
+    opacity: 0.5;
+    position: absolute;
+}
+
+.boldText {
+    font-weight: 900;
+}
+
+.carrousel-title {
+    font-size: 3rem
+}
+
+.carrousel-font {
+    position: relative;
+    top: -40vh;
+    right: -50vw;
+    font-size: 1.5rem;
+}
+
+.vw-30 {
+    width: 30vw
+}
+
+.darker-img2 {
+    filter: brightness(0.5);
+}
+
+#textFromBA {
+    position: relative;
+    top: -80vh;
+}
+
+#codoACodo {
+    height: 3rem;
+}
+
+.tag {
+    margin-right: 0.3rem;
+}
+
+.d-inline {
+    width: 9rem;
+}
+
+.img-ba {
+    height: 100vh;
+}
+
+.bigHeight {
+    height: 90vh;
+}
+
+.img-cuadrada {
+    width: 100%;
+    height: auto;
+}
+
+.bg-gray {
+    background-color: rgb(52, 57, 63);
+}
+
+.bg-green {
+    background-color: rgb(150, 201, 62);
+}
+
+.bg-darkblue {
+    background-color: rgb(27, 60, 77);
+}
